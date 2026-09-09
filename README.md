@@ -3,7 +3,7 @@
 **Tools:** Python (pandas, matplotlib, seaborn), Tableau Public
 **Dataset:** ~32,600 anonymized personal loan applications — customer demographics, loan terms, credit grade, and current default status
 
-**Live interactive dashboard:** [Add Tableau Public link]
+**Live interactive dashboard:** https://public.tableau.com/app/profile/fedora.rebello/viz/LoanDefaultRiskDashboard_17889401803800/Dashboard1
 
 ## Overview
 
@@ -47,7 +47,7 @@ The cleaned dataset was rebuilt as an interactive Tableau dashboard so the same 
 - An income-vs-loan-amount scatter plot colored by outcome
 - A loan purpose filter that cross-applies to every chart at once
 
-**View it live:** [Add Tableau Public link]
+**View it live:** https://public.tableau.com/app/profile/fedora.rebello/viz/LoanDefaultRiskDashboard_17889401803800/Dashboard1
 
 ## Key Findings
 
